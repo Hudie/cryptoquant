@@ -1,0 +1,8 @@
+DERIBIT_API_WEBSOCKET = 'wss://www.deribit.com/ws/api/v2'
+
+DERIBIT_ACCOUNT_ID = 'your_account_id'
+DERIBIT_CLIENT_ID = ''
+DERIBIT_CLIENT_SECRET = ''
+
+SYMBOL = 'BTC'
+MINIMUM_TICK_SIZE = 0.5
