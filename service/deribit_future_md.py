@@ -1,3 +1,8 @@
+# Copyright: Copyright 2020, CryptoQuant
+# License: Simplified BSD License
+# Author: Denver Lu
+# Email: danfeng.l@gmail.com
+
 """
 This service mainly deals with future related market data from Deribit API.
 It collects market data via websocket, and then publish it through 0mq to subscribers.

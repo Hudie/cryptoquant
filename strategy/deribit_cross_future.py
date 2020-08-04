@@ -1,3 +1,8 @@
+# Copyright: Copyright 2020, CryptoQuant
+# License: Simplified BSD License
+# Author: Denver Lu
+# Email: danfeng.l@gmail.com
+
 """
 This service is an arbitrage strategy using two futures
 or using perpetual and one future.

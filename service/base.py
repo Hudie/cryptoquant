@@ -1,3 +1,8 @@
+# Copyright: Copyright 2020, CryptoQuant
+# License: Simplified BSD License
+# Author: Denver Lu
+# Email: danfeng.l@gmail.com
+
 """
 Base class for all services.
 """
@@ -21,6 +26,7 @@ logger.addHandler(fh)
 
 
 class ServiceState(Enum):
+    """ Enum to store service state. """
     init = 'init'
     starting = 'starting'
     started = 'started'
